@@ -1,0 +1,2 @@
+# DS ETEC
+Este repositório reúne todos os materiais, exercícios, projetos e atividades desenvolvidos durante o curso na ETEC. O objetivo é organizar e armazenar meu progresso acadêmico ao longo da formação, incluindo conteúdos teóricos, práticas de programação e demais trabalhos realizados em aula. Além de servir como portfólio de estudos, este espaço também facilita a revisão e o acompanhamento da evolução nas disciplinas do curso.
