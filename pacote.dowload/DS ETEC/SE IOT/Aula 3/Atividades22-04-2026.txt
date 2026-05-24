@@ -1,0 +1,8 @@
+1)Faça o led acender e apagar apertando o botão.
+
+2)Faça uma cópia do projeto 1 e altere para ao apertar o botão o led piscar 3 vezes rapidamente.
+
+3)Faça uma cópia do projeto 1 e altere para adicionar mais um outro botão e led do outro lado, ou seja, quando apertar o primeiro botão acende o primeiro led e apaga. Quando apertar o segundo botão o led 2 acende e apaga.
+
+4)Faça uma cópia do projeto 1 e altere para que seja feito o inverso. O led ele fica sempre acesso. Ao apertar o botão ele apaga e ao soltar ele permanece acesso.
+
