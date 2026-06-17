@@ -1,0 +1,3 @@
+<p a lingn= "center">   </p> (centro)
+	    "left">     </p> (esquerda)
+	    "right">    </p> (direita)

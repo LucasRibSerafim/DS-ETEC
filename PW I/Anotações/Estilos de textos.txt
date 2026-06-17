@@ -1,0 +1,3 @@
+<i> </i> : italico
+<b> </b> : negrito
+<u> </u> : sublinhado

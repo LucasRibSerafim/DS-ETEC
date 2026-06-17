@@ -1,0 +1,173 @@
+/* 
+====================================
+ESTILIZAÇÃO DO BODY
+====================================
+*/
+
+body {
+
+    /* Remove margem padrão do navegador */
+    margin: 0;
+
+    /* Remove espaçamento interno padrão */
+    padding: 0;
+
+    /* Define a fonte do texto */
+    font-family: Arial, Helvetica, sans-serif;
+
+    /* Cor de fundo da página */
+    background-color: #f4f4f4;
+
+    /* Ativa o Flexbox */
+    display: flex;
+
+    /* Centraliza horizontalmente */
+    justify-content: center;
+
+    /* Centraliza verticalmente */
+    align-items: center;
+
+    /* Altura total da tela */
+    height: 100vh;
+}
+
+/* 
+====================================
+CAIXA PRINCIPAL
+====================================
+*/
+
+.container {
+
+    /* Cor de fundo da caixa */
+    background: white;
+
+    /* Espaçamento interno */
+    padding: 30px;
+
+    /* Bordas arredondadas */
+    border-radius: 10px;
+
+    /* Sombra da caixa */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+    /* Centraliza os textos */
+    text-align: center;
+
+    /* Largura da caixa */
+    width: 350px;
+}
+
+/* 
+====================================
+TÍTULO
+====================================
+*/
+
+h1 {
+
+    /* Cor do texto */
+    color: #333;
+
+    /* Espaço abaixo do título */
+    margin-bottom: 20px;
+}
+
+/* 
+====================================
+CAMPOS INPUT
+====================================
+*/
+
+input {
+
+    /* Largura total */
+    width: 100%;
+
+    /* Espaçamento interno */
+    padding: 10px;
+
+    /* Espaço abaixo dos inputs */
+    margin-bottom: 15px;
+
+    /* Borda do input */
+    border: 1px solid #ccc;
+
+    /* Bordas arredondadas */
+    border-radius: 5px;
+
+    /* Tamanho da fonte */
+    font-size: 16px;
+
+    /* Faz o padding não aumentar a largura */
+    box-sizing: border-box;
+}
+
+/* 
+====================================
+BOTÃO
+====================================
+*/
+
+button {
+
+    /* Largura total */
+    width: 100%;
+
+    /* Espaçamento interno */
+    padding: 10px;
+
+    /* Remove a borda padrão */
+    border: none;
+
+    /* Bordas arredondadas */
+    border-radius: 5px;
+
+    /* Cor de fundo */
+    background-color: #0077cc;
+
+    /* Cor do texto */
+    color: white;
+
+    /* Tamanho da fonte */
+    font-size: 16px;
+
+    /* Muda o cursor para mãozinha */
+    cursor: pointer;
+
+    /* Tempo da animação */
+    transition: 0.3s;
+}
+
+/* 
+====================================
+EFEITO AO PASSAR O MOUSE
+====================================
+*/
+
+button:hover {
+
+    /* Muda a cor do botão */
+    background-color: #005fa3;
+}
+
+/* 
+====================================
+RESULTADO DA SOMA
+====================================
+*/
+
+#resultado {
+
+    /* Espaço acima do resultado */
+    margin-top: 20px;
+
+    /* Tamanho do texto */
+    font-size: 24px;
+
+    /* Texto em negrito */
+    font-weight: bold;
+
+    /* Cor do texto */
+    color: #0077cc;
+}

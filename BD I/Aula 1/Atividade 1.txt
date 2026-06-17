@@ -1,0 +1,23 @@
+DADOS DO ALUNO:
+data de nascimento
+cpf
+rg
+telefone
+email
+nome dos pais/responsaveis
+
+CHAMADA:
+alunos
+número do aluno
+presença
+dias da semana
+
+PLANEJAMENTO DE AULAS:
+matérias
+nome do professor
+horários das aulas
+número da aula
+
+
+
+

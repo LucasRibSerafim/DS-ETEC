@@ -1,0 +1,23 @@
+body {
+
+    /* esta linha é do css*/
+    
+    background-image: url(../img/ben.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+img{
+    height: 300px;
+    width: 200px;
+}
+

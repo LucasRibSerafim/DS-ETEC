@@ -1,0 +1,12 @@
+//recebendo valor pelo prompt//
+var nome = prompt("Digite seu nome: ")
+
+//exibindo com document.write//
+document.write("Bem vindo, ", nome);
+
+//exibindo usando alert//
+alert(nome);
+
+//personanalizando alert //
+
+alert("O nome digitado foi :"+nome);
