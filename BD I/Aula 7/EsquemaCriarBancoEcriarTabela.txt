@@ -1,0 +1,31 @@
+  Fazer download do arquivo zipado que está em:
+material de apoio\1DS\BD 1\Este
+
+copie para tua maquina compactado mesmo.
+
+Clique com o botão direito do mouse e clique na opção: Extract to USBWebserverv8.5
+
+Entre na pasta USBWebserverv8.5 e depois em USBWebserverv8.5 de novo,depois em 8.5, e então clique duas vezes no ícone do USBWebServer. Habilite o que pedi para habilitar, você vai ver que as duas bolinhas ficará verde,do Apache e Mysql.
+
+Depois clique no botão PHPMyAdmin,cloque o login e senha e entre no mysql.
+
+Na aba SQL coloque o comando de criar um banco de dados:
+create database nome_do_banco
+
+depois clique em executar
+
+clique duas vezes sobre o nome_do_banco na lateral e então clique na aba sql e crie da tabela:
+create TABLE nome_da_tabela(
+SiglaTabela_ID int(11) NOT NULL AUTO_INCREMENT primary key,
+SiglaTabela_campo1 varchar(50) NOT NULL,
+SiglaTabela_campo2 varchar(50) NOT NULL,
+SiglaTabela_campo3 varchar(50) NOT NULL
+);
+
+E clique em executar.
+
+
+
+
+
+
